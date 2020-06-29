@@ -1,0 +1,3 @@
+[submodule "cinema-app"]
+	path = cinema-app
+	url = https://github.com/Luccasoli/cinemapp
