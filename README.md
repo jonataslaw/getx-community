@@ -1,4 +1,4 @@
-# getx-comunity
+# GETX - COMMUNITY
 
 This is a collaborative repository of examples of using GetX.
 Anyone can contribute examples, from the simplest to the most complex. Any example of integration is welcome.
