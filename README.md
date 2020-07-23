@@ -9,4 +9,6 @@ Anyone can contribute examples, from the simplest to the most complex. Any examp
 
 - [CinemApp - An app that shows the main films of the moment](https://github.com/Luccasoli/cinema-app) <!--stargazers:Luccasoli/cinema--> - Project developed by [Lucas Mesquita](https://github.com/Luccasoli).
 
+- [Grocery - A virtual store concept with GetX](https://github.com/andreciornavei/flutter-getx-concept) <!--stargazers:Luccasoli/cinema--> - Project developed by [André Ciornavei](https://github.com/andreciornavei).
+
 ### Quick examples
